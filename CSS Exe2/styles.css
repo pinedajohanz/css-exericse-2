@@ -1,0 +1,43 @@
+body {
+    background-color: #e2ac7e;
+}
+
+.line {
+    border: 8px black;
+    border-bottom-style:dashed;
+}
+
+h1 {
+    font-family:impact;
+    font-style:italic;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#wrap {
+    border: 8px dashed black;
+    margin-left: 25%;
+    margin-right: 25%; 
+    background-color: lightyellow;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.sentence {
+    text-align:center;
+    font-family:Lucida Grande, monospace;
+
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-style:italic;
+    font-family: palatino, serif;
+}
+
+.copyright {
+    text-align: center;
+    font-family: Lucida Grande, monospace;
+    font-size: 12px;
+}
